@@ -1,14 +1,14 @@
 let score;
 
 score=50;
-console.log('score is : ', score)
+console.log('score is : ', score);
 score=60;
-console.log('score is : ', score)
+console.log('score is : ', score);
 
 
-let name='John';
+let name='Adam';
 
-let age=21;
+let age=27;
 
 
 //Camel notation (case)
